@@ -1,0 +1,1 @@
+"""Game receipt example package."""
